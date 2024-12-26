@@ -6,3 +6,6 @@ I am **Self taught full-stack developer**
 - 🎯 Reach out to more folks and
 
 **`(Developer/Creator/)`**
+
+This is the latest one.
+This is the dublicated version of original text.
