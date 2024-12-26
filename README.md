@@ -6,5 +6,3 @@ I am **Self taught full-stack developer**
 - 🎯 Reach out to more folks and
 
 **`(Developer/Creator/)`**
-
-Feel free to connect. 
